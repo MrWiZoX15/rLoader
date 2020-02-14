@@ -1,0 +1,3 @@
+main: club.reaper.loader.main.Loader
+name: rLoader
+version: 1.0
